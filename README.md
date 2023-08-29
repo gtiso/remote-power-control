@@ -50,6 +50,12 @@ Schematics for the wiring instructions :
 4. Configure the GSM module and relay pins according to your hardware setup.
 5. Upload the sketch to the Arduino board.
 
+## Libraries
+
+- [Button.h](https://github.com/carlynorama/Arduino-Library-Button)
+- [SoftwareSerial.h](https://docs.arduino.cc/learn/built-in-libraries/software-serial)
+- [LayadCircuits_SalengGSM.h](https://github.com/layadcircuits/Saleng-GSM)
+- [LiquidCrystal_I2C.h](https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/)
 
 ## Usage
 
@@ -73,3 +79,6 @@ This project can be extended in various ways:
 Contributions to this project are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
 *Feel free to reach out to the project maintainers if you have any questions or need assistance. Happy hacking!*
+
+
+

@@ -66,15 +66,6 @@ Schematics for the wiring instructions :
     * To get the current status : Send STATUS or STATE.
 3. You will receive SMS replies confirming the action or providing the status.
 
-## Future Improvements
-
-This project can be extended in various ways:
-
-- Implement a more secure authentication mechanism for SMS commands.
-- Develop a mobile app for easier and more intuitive control.
-- Integrate with home automation platforms for centralized management.
-- Add support for scheduling tasks and automation.
-
 ## Contributing
 Contributions to this project are welcome! If you have any ideas, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
